@@ -1,0 +1,54 @@
+result: {
+  "myHashMap": {
+    "expected_date": {},
+    "lpg_primary": {},
+    "access_days_time": "24 hours daily",
+    "open_date": {},
+    "hy_status_link": {},
+    "state": "TX",
+    "ev_network_web": "http://www.mychargepoint.net/",
+    "ng_psi": {},
+    "geocode_status": "GPS",
+    "ev_other_evse": {},
+    "fuel_type_code": "ELEC",
+    "ev_network": "ChargePoint Network",
+    "city": "Austin",
+    "id": 62029,
+    "intersection_directions": "PARKING GARAGE",
+    "distance": 0.51054,
+    "ev_network_ids": {
+      "myHashMap": {
+        "posts": {
+          "myArrayList": [
+            "1:96465"
+          ]
+        }
+      }
+    },
+    "bd_blends": {},
+    "longitude": -97.7467678,
+    "status_code": "E",
+    "ev_dc_fast_num": {},
+    "station_name": "HYATT AUSTIN",
+    "zip": "78704",
+    "owner_type_code": {},
+    "ng_fill_type_code": {},
+    "cards_accepted": {},
+    "ng_vehicle_class": {},
+    "plus4": {},
+    "groups_with_access_code": "Public",
+    "station_phone": "888-758-4389",
+    "date_last_confirmed": "2016-04-13",
+    "updated_at": "2016-04-13T08:20:13Z",
+    "ev_level2_evse_num": 2,
+    "e85_blender_pump": {},
+    "ev_level1_evse_num": {},
+    "latitude": 30.2604763,
+    "street_address": "208 Barton Springs Rd",
+    "ev_connector_types": {
+      "myArrayList": [
+        "J1772"
+      ]
+    }
+  }
+}
